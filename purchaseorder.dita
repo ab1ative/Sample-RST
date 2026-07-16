@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="my-topic">
+  <title>How to Create a Purchase Order in Odoo</title>
+  <body>
+    <p>A purchase order records your intent to buy goods or services from a vendor.</p>
+    <section>
+      <title>Steps</title>
+      <ol>
+        <li>Navigate to <uicontrol>Purchase</uicontrol> in the main menu.</li>
+        <li>Click <uicontrol>New</uicontrol> to create a purchase order.</li>
+        <li>Select a vendor from the dropdown.</li>
+        <li>Add products and quantities.</li>
+        <li>Click <uicontrol>Confirm Order</uicontrol>.</li>
+      </ol>
+    </section>
+  </body>
+</topic>
