@@ -1,4 +1,4 @@
-.. image::conspiracyhoned.jpg
+.. image::images/conspiracyhoned.jpg
 
 ===============================
 Despite Its Death, Destiny 2 is One of the Top Games on Steam
